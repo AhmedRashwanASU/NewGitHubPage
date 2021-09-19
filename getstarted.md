@@ -77,7 +77,7 @@ There are only three simple steps, ....
 Here is a 40-second video ....
 
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
-
+![Installation steps](assets/img/install-steps.gif)
 
 <div class="gs-section-01" markdown="1">
 
