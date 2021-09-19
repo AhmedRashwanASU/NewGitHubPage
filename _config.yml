@@ -18,6 +18,7 @@ description: Data and Information Down to Meaningful Bites Of Knowledge , toward
 
 navbar-links:
   About Me: "aboutme"
+  liquid-table: "table-demo"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
