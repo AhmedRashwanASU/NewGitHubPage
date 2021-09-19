@@ -11,6 +11,9 @@ title: Ahmed Rashwan
 # Your name to show in the footer
 author: Ahmed Rashwan
 
+# Short description of your site
+description: Data and Information Down to Meaningful Bites Of Knowledge , toward empowering you to automate organizational reporting processes.
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -18,6 +21,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -40,26 +44,26 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
+  facebook: https://github.com/AhmedRashwanASU
+  github: https://github.com/AhmedRashwanASU
+  twitter: https://github.com/AhmedRashwanASU
+  patreon: https://github.com/AhmedRashwanASU
+  youtube: https://github.com/AhmedRashwanASU
+#  medium: https://github.com/AhmedRashwanASU
+#  reddit: https://github.com/AhmedRashwanASU
+#  linkedin: https://github.com/AhmedRashwanASU
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
+#  stackoverflow: https://github.com/AhmedRashwanASU
+#  snapchat: https://github.com/AhmedRashwanASU
+#  instagram: https://github.com/AhmedRashwanASU
+#  spotify: https://github.com/AhmedRashwanASU
+#  telephone: +552992903
 #  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
+#  twitch:https://github.com/AhmedRashwanASU
+#  yelp:https://github.com/AhmedRashwanASU
+#  telegram: https://github.com/AhmedRashwanASU
+#  calendly: https://github.com/AhmedRashwanASU
+#  mastodon:https://github.com/AhmedRashwanASU
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
@@ -97,16 +101,15 @@ post_search: true
 
 # --- Colours / background image --- #
 
-# Personalize the colours in your website. Colour values can be any valid CSS colour
+# Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
