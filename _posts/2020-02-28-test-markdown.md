@@ -13,7 +13,7 @@ R is free and adaptable because it’s an open-source software. R’s open inter
 **Here is some bold text**
 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe](https://ahmedrashwanasu.github.io/AhmedR-GitHubPage/assets/img/Features-of-R-programming-1.png){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
