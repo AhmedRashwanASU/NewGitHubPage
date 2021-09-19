@@ -1,34 +1,17 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: R is an open-source software
+subtitle: R is free and adaptable
+gh-repo: AhmedRashwanASU/NewGitHubPage
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+R is an open-source software
+R is free and adaptable because it’s an open-source software. R’s open interfaces allow it to integrate with other applications and systems. Open-source softwares have a high standard of quality, since multiple people use and iterate on them. Learn More, [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) 
 
 **Here is some bold text**
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
