@@ -262,14 +262,14 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: orange }
      
 .gs-section-02 p {
- font-size: 30px;
+ font-size: 25 px;
  }
  
 .gs-section-03 h3 { 
  color: blue }
  
- .gs-section-02 p {
- font-size: 30px;
+ .gs-section-03 p {
+ font-size: 23px;
  }
      
 </style>
