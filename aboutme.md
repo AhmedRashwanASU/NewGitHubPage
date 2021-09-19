@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: R Histoty
 cover-img: /assets/img/coder1.jpg
 thumbnail-img: /assets/img/R.png
 share-img: /assets/img/img/R.png
