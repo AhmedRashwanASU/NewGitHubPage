@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-cover-img: /assets/img/coder2.jpg
+cover-img: /assets/img/coder1.jpg
 thumbnail-img: /assets/img/R.png
 share-img: /assets/img/img/R.png
 subtitle: Who uses R?
