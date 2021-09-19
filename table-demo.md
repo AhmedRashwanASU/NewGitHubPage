@@ -20,6 +20,7 @@ gosling:
   - cries a lot
   - not ryan reynolds
 ---
+![](assets/img/ryan-v-ryan.jpg)
 
 ![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
 
