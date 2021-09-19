@@ -17,7 +17,7 @@ description: Data and Information Down to Meaningful Bites Of Knowledge , toward
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  R Histoty : "aboutme"
   liquid-table: "table-demo"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
