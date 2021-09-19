@@ -1,15 +1,21 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: R Support Community!
+subtitle: R Core Team and the R Foundation for Statistical Computing.
+cover-img: /assets/img/copy.jpg
+thumbnail-img: /assets/img/R.png
+share-img: /assets/img/coderjpg.jpg
 tags: [books, test]
 ---
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+R is incredible software for statistics and data science. But while the bits and bytes of software are an essential component of its usefulness, software needs a community to be successful. And that's an area where R really shines, as Shannon Ellis explains in this lovely ROpenSci blog post. For software, a thriving community offers developers, expertise, collaborators, writers and documentation, testers, agitators (to keep the community and software on track!), and so much more. Shannon provides links where you can find all of this in the R community
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Use the help available from the Help menu in R
+There are many options available on the Help menu, the most useful to us are: Manuals, Search Help, R functions, and HTML help. The names of each one are fairly descriptive. Try them out to see where they take you.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Use the help() command
+To find information for a particular function, such as the function print, type help('print') on the R command line and press enter (I recommend using quotes whenever you use this command, but there are some special cases when they are unnecessary). This will open up a window with information on how to use the required function.
+
+Typing help() on the R command line and pressing enter will open a window telling you a bit on how to use the help()command
+Alternatively, the same results can be achieved by typing a question mark followed by the name of the command to query. For instance, to bring up the help file for the function print, type ?print into the command line.
+
