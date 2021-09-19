@@ -3,8 +3,8 @@ layout: post
 title: R Support Community!
 subtitle: R Core Team and the R Foundation for Statistical Computing.
 cover-img: /assets/img/copy.jpg
-thumbnail-img: /assets/img/coderjpg.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/R.png
+share-img: /assets/img/copy.jpg
 tags: [books, test]
 ---
 
